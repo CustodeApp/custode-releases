@@ -1,4 +1,4 @@
-<img width="1874" height="857" alt="image" src="https://github.com/user-attachments/assets/5b609644-4825-4a76-bc5c-1981bdf7335e" /># custode-releases
+# custode-releases
 
 # Custode — versions publiées
 
