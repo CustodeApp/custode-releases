@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/custode512.png" alt="Custode" width="170">
-
 # Custode
 
 ### Votre médiathèque personnelle.
