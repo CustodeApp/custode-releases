@@ -111,8 +111,6 @@ Custode est un logiciel propriétaire. Les fichiers publiés ici sont destinés 
 
 <div align="center">
 
-<img src="assets/custode512.png" width="55" alt="Custode">
-
 **Custode** · Votre collection. Votre serveur. Votre liberté.
 
 </div>
