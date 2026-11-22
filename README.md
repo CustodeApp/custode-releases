@@ -8,7 +8,7 @@ Un serveur multimédia auto-hébergé pour organiser et regarder vos films, sér
 
 <br>
 
-![Version](https://img.shields.io/badge/serveur-1.2.0-16BFB5?style=flat-square)
+![Version](https://img.shields.io/badge/serveur-1.2.1-16BFB5?style=flat-square)
 ![Self Hosted](https://img.shields.io/badge/self--hosted-oui-16BFB5?style=flat-square)
 ![Platform](https://img.shields.io/badge/apps-Windows%20%7C%20Android%20%7C%20Android%20TV%20%7C%20Web-16BFB5?style=flat-square)
 
