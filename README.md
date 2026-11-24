@@ -178,6 +178,34 @@ Les données du serveur (base, images) sont rangées dans le dossier `data` à c
 3. Custode analyse les fichiers et récupère affiches, résumés et distribution. Comptez quelques minutes pour une grande collection.
 4. Dans **Utilisateurs**, créez un compte pour chaque membre de la famille.
 
+<details>
+<summary><b>Recommandé : votre clé TMDB gratuite (affiches, résumés et logos plus complets)</b></summary>
+
+Sans clé, Custode trouve déjà les fiches de vos films et séries grâce à Wikidata, Wikipédia et TVMaze. Avec une clé **TMDB** (The Movie Database), il s'y ajoute :
+
+- des affiches, des fonds et des résumés en français plus complets ;
+- les **logos des titres** (affichés à la place du nom sur Android TV et dans le lecteur) ;
+- les sagas et la classification par âge plus précises.
+
+La clé gratuite de TMDB est réservée à un **usage personnel et non commercial** : Custode n'en fournit donc pas, chaque propriétaire de serveur utilise **sa propre clé**. Elle reste sur votre serveur et n'est jamais partagée.
+
+**Obtenir votre clé (5 minutes, gratuit)**
+
+1. Créez un compte sur **[themoviedb.org](https://www.themoviedb.org/signup)** et validez votre adresse e-mail.
+2. Ouvrez **[Paramètres → API](https://www.themoviedb.org/settings/api)** et demandez une clé « **Developer** ».
+3. Remplissez le petit formulaire : type d'usage **personnel**, nom de l'application **Custode**, et une courte description (par exemple « serveur multimédia personnel pour ma famille »).
+4. Une fois la demande acceptée (en général immédiatement), copiez le **jeton d'accès en lecture à l'API** (« API Read Access Token »). La « Clé d'API » plus courte fonctionne aussi.
+
+**L'enregistrer dans Custode**
+
+1. Sur le site de votre serveur, ouvrez **Sources des fiches**.
+2. Dans **Clé TMDB (facultative)**, collez la clé puis cliquez sur **Enregistrer la clé**.
+3. Depuis le **Tableau de bord**, lancez une analyse de vos médiathèques : les fiches sont complétées et les logos arrivent en arrière-plan.
+
+*Ce produit utilise l'API de TMDB mais n'est ni approuvé ni certifié par TMDB.*
+
+</details>
+
 ### 3. Installer les applications
 
 | Écran | Fichier | Installation |
